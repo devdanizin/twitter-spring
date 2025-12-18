@@ -1,0 +1,9 @@
+2025-12-18 00:10:33.190749-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT [*]IGNORE INTO tb_roles (role_id, name) VALUES (1, 'admin')"; expected "INTO"; SQL statement:
+INSERT IGNORE INTO tb_roles (role_id, name) VALUES (1, 'admin') [42001-240]
+2025-12-18 00:10:38.901894-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT [*]IGNORE INTO tb_roles (role_id, name) VALUES (1, 'admin')"; expected "INTO"; SQL statement:
+INSERT IGNORE INTO tb_roles (role_id, name) VALUES (1, 'admin') [42001-240]
+2025-12-18 00:10:40.086051-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT [*]IGNORE INTO tb_roles (role_id, name) VALUES (1, 'admin')"; expected "INTO"; SQL statement:
+INSERT IGNORE INTO tb_roles (role_id, name) VALUES (1, 'admin') [42001-240]
