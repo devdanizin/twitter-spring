@@ -18,3 +18,8 @@ spring:
       path: /h2-console
 server:
   port: 8080
+jwt:
+  public:
+    key: classpath:app.pub
+  private:
+    key: classpath:app.key
